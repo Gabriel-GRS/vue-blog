@@ -22,7 +22,6 @@
 ## Features:
 
 - Responsividade;
-- Consumo de API;
 - Composition API;
 
 
